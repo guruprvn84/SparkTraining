@@ -1,0 +1,9 @@
+{"Year": "2013", "First Name": "DAVID", "County": "KINGS", "Sex": "M", "Count": "272" , "numericVal":100, "attributes": {"atr1":"11","atr2":"22"},"arrays":[ { "v1":"v1000","v2":"1000"}, {"v1":"v2000","v2":"2000"}]},
+{"Year": "2014", "First Name": "JAYDEN", "County": "KINGS1", "Sex": "M", "Count": "268" ,"numericVal":27, "attributes": {"atr1":"21","atr2":"32"},"arrays":[ { "v1":"v10000","v2":"10000"}, {"v1":"v20000","v2":"20000"}]},
+{"Year": "2013", "First Name": "john", "County": "KINGS2", "Sex": "M", "Count": "275" , "numericVal":105,"attributes": {"atr1":"15","atr2":"22"},"arrays":[ { "v1":"v1000","v2":"1000"}, {"v1":"v2000","v2":"2000"}]},
+{"Year": "2013", "First Name": "mercy", "County": "KINGS3", "Sex": "M", "Count": "462" ,"numericVal":10, "attributes": {"atr1":"41","atr2":"42"},"arrays":[ { "v1":"v10000","v2":"1000"}, {"v1":"v20000","v2":"20000"}]},
+{"Year": "2013", "First Name": "kein", "County": "KINGS4", "Sex": "M", "Count": "321" , "numericVal":3,"attributes": {"atr1":"31","atr2":"52"},"arrays":[ { "v1":"v1001","v2":"1001"}, {"v1":"v2001","v2":"2001"}]},
+{"Year": "2013", "First Name": "peter", "County": "KINGS5", "Sex": "M", "Count": "872" , "numericVal":75,"attributes": {"atr1":"11","atr2":"42"},"arrays":[ { "v1":"v1010","v2":"1010"}, {"v1":"v2010","v2":"2010"}]}
+
+
+

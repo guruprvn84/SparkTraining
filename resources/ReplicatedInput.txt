@@ -1,0 +1,22 @@
+1) Introduction
+a. What is Apache Spark?
+b. Basic Architecture
+c. Application Life cycle
+d. Modes
+2) Low level API and RDD operations
+3) Basic Structured Operations
+4) Aggregations and Joins
+5) Spark SQL
+6) Spark App tuning
+
+1) Introduction
+a. What is Apache Spark?
+b. Basic Architecture
+c. Application Life cycle
+d. Modes
+2) Low level API and RDD operations
+3) Basic Structured Operations
+4) Aggregations and Joins
+5) Spark SQL
+6) Spark App tuning
+

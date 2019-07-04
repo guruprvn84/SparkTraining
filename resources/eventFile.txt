@@ -1,0 +1,5 @@
+user1,balancecheck,1
+user2,withdraw,1
+user1,withdraw,1
+user1,deposit,1
+user3,balancecheck,1
